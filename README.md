@@ -4,7 +4,7 @@ Desarrollador especializado en Flutter con experiencia construyendo aplicaciones
 
 ---
 
-🧩 ### Flutter & Dart
+### 🧩 Flutter & Dart
 
 - Desarrollo multiplataforma (Android, iOS, Web)
 - Arquitectura modular y organizada
@@ -18,16 +18,16 @@ Desarrollador especializado en Flutter con experiencia construyendo aplicaciones
 
 ---
 
-🔌  ## Backend & Servicios (Integración desde Flutter)
+## 🔌 Backend & Servicios (Integración desde Flutter)
 
-🔐 ### Autenticación
+### 🔐 Autenticación
 
 - Firebase Authentication
 - Google Sign-In
 - Sign in with Apple
 - Implementación multiplataforma (Android, iOS y Web)
 
-📡 ### Tiempo Real
+### 📡 Tiempo Real
 
 - Integración con WebSockets
 - socket_io_client
@@ -35,16 +35,16 @@ Desarrollador especializado en Flutter con experiencia construyendo aplicaciones
 - pusher_channels_flutter
 - Manejo de eventos en tiempo real y sincronización de estados
 
-🔥 ### Firebase
+### 🔥 Firebase
 
-- Firebase Authentication
+.- Firebase Authentication
 - Cloud Firestore (modelado de colecciones, consultas y estructuras NoSQL)
 - Firebase Storage (subida y gestión de archivos)
 - Cloud Messaging (FCM) para notificaciones push
 - Configuración básica de reglas de seguridad
 - Integración completa de Auth + Database + Storage en proyectos reales
 
-🌐 ### APIs & Comunicación
+### 🌐 APIs & Comunicación
 
 - Consumo de APIs REST con `http` y `dio`
 - Serialización y deserialización JSON
@@ -54,7 +54,7 @@ Desarrollador especializado en Flutter con experiencia construyendo aplicaciones
 
 ---
 
-💳 ## Integraciones de Pago
+## 💳 Integraciones de Pago
 
 - Integración de Mercado Pago (Checkout Pro)
 - Manejo de estados de pago desde frontend
@@ -62,7 +62,7 @@ Desarrollador especializado en Flutter con experiencia construyendo aplicaciones
 
 ---
 
-📊 ## Analítica
+## 📊 Analítica
 
 - Integración de PostHog para seguimiento de eventos
 - Eventos personalizados
@@ -70,7 +70,7 @@ Desarrollador especializado en Flutter con experiencia construyendo aplicaciones
 
 ---
 
-📍 ## Geolocalización
+## 📍 Geolocalización
 
 - Integración con OpenStreetMap (osm_nominatim)
 - Autocompletado de direcciones
@@ -80,7 +80,7 @@ Desarrollador especializado en Flutter con experiencia construyendo aplicaciones
 
 ---
 
-## Flutter Web
+## 🧩 Flutter Web
 
 - Desarrollo y optimización específica para entornos Web
 - Configuración de plugins y comportamiento adaptado a navegador
@@ -88,7 +88,7 @@ Desarrollador especializado en Flutter con experiencia construyendo aplicaciones
 
 ---
 
-🎨 ## UI / UX
+## 🎨 UI / UX
 
 - Diseño responsive para mobile y web
 - Componentes personalizados reutilizables
@@ -103,7 +103,7 @@ Desarrollador especializado en Flutter con experiencia construyendo aplicaciones
 - Apertura de enlaces externos (url_launcher)
 - Uso de librerías como Lottie, Shimmer, animaciones staggered y efectos visuales avanzados
 
-🚀 ### Design System
+### 🚀 Design System
 
 - Implementación de Design System centralizado
 - Sistema de colores y tipografías configurado globalmente
@@ -112,7 +112,7 @@ Desarrollador especializado en Flutter con experiencia construyendo aplicaciones
 
 ---
 
-🏗 ## Arquitectura de Producto
+## 🏗 Arquitectura de Producto
 
 - Desarrollo de aplicaciones completas desde cero (frontend)
 - Sistemas con roles (admin / organizador / usuario)
@@ -120,7 +120,7 @@ Desarrollador especializado en Flutter con experiencia construyendo aplicaciones
 
 ---
 
-📭 ## Publicación
+## 📭 Publicación
 
 - Builds multiplataforma con Flutter CLI
 - Configuración de proyecto Android e iOS
@@ -130,7 +130,7 @@ Desarrollador especializado en Flutter con experiencia construyendo aplicaciones
 
 ---
 
-🛡 ## Seguridad
+## 🛡 Seguridad
 
 - Manejo seguro de variables sensibles
 - Validaciones en frontend
@@ -138,7 +138,7 @@ Desarrollador especializado en Flutter con experiencia construyendo aplicaciones
 
 ---
 
-📄 ## Documentos y Exportación
+## 📄 Documentos y Exportación
 
 - Generación de documentos PDF personalizados dentro de la aplicación
 - Exportación e impresión mediante librerías `pdf` y `printing`
@@ -146,7 +146,7 @@ Desarrollador especializado en Flutter con experiencia construyendo aplicaciones
 
 ---
 
-💼 ## Proyectos Destacados
+## 💼 Proyectos Destacados
 
 ### 🔹 DisponibleHoy
 
